@@ -10,5 +10,5 @@ alaninda uzmanlasmak.
 - Faz 4: Bulut ve Spark
 
 #İlerleme
-- [X] Hafta 1 - Sali: Linux terminal temlleri, Missing Semester 1.ders
-- [X] Hafta 1 - Carsamba: Git ve Github kurulumu ilk repo 
+ - Hafta 1: Linux terminal, Git/GitHub, PostgreSQL + dvdrental, Python temelleri (5 alıştırma)
+ - Hafta 2: LeetCode SQL 50 (10 soru: JOIN, LEFT JOIN, IS NULL, CROSS JOIN), pandas ile film analizi
